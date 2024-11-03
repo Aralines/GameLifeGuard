@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 38dfbb75a15706419bdb3717a15b7cd1
+guid: 57ffbcb41bf998d4cbe464986ee8ada2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7391551917931177782
-    second: railing_0
+      213: 2472910617871792919
+    second: build3_0
+  - first:
+      213: -1279319565986868193
+    second: build3_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,19 +100,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: WindowsStoreApps
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -126,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: railing_0
+      name: build3_0
       rect:
         serializedVersion: 2
-        x: 39
-        y: 36
-        width: 558
-        height: 91
+        x: 28
+        y: 569
+        width: 42
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +131,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6372527ae41149660800000000000000
-      internalID: 7391551917931177782
+      spriteID: 71b3a8bda1b815220800000000000000
+      internalID: 2472910617871792919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build3_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 70
+        width: 1387
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14552302a1fe3ee0800000000000000
+      internalID: -1279319565986868193
       vertices: []
       indices: 
       edges: []
@@ -160,8 +172,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      railing_0: 7391551917931177782
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
