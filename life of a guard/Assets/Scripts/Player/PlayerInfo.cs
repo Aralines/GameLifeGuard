@@ -20,5 +20,19 @@ public class PlayerInfo : MonoBehaviour
         }
     }
 
+    public void TakeDamage(float damage)
+    {
+        if (damage < 0)
+            damage *= -1;
+        _currentHealth -= damage;
+        if(_currentHealth <= 0)
+            playerDead();    
+    }
+
+    private void playerDead()
+    {
+        /*ивент смерти*/
+    }
+    
 
 }
