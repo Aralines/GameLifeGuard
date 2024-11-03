@@ -3,7 +3,6 @@ using UnityEngine.Rendering;
 
 public class Menu : MonoBehaviour
 {
-    [SerializeField] private gameInput input;
     [SerializeField] private GameObject pauseMenu;
 
     public void PauseMenu()
