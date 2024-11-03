@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1802d8f766786f2428ebad43632ccbdb
+guid: d73c202579956844b9ae10a7aafbc120
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2821094910529174275
-    second: build1_0
+      213: -2600511328253565807
+    second: stoit GG_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: build1_0
+      name: stoit GG_0
       rect:
         serializedVersion: 2
-        x: 63
-        y: 37
-        width: 887
-        height: 672
+        x: 0
+        y: 0
+        width: 512
+        height: 698
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: df40f3c202579d8d0800000000000000
-      internalID: -2821094910529174275
+      spriteID: 194211d99b029ebd0800000000000000
+      internalID: -2600511328253565807
       vertices: []
       indices: 
       edges: []
@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      stoit GG_0: -2600511328253565807
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

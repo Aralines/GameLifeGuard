@@ -11,7 +11,7 @@ public class PlayerInfo : MonoBehaviour
         _currentHealth = maxHealth;
     }
     /// <summary>
-    /// Здоровье показывается в процентах 
+    /// Здоровье показывается в процентах, от 0 до 1
     /// </summary>
     public float Health//  Через эту переменную можно получить количество хп
     {

@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 7b430396ead85ab44ac79573e621e1b7
+guid: 8da0035e1a2a5b345bb9d0bcd7be6dd4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4107876254530302980
-    second: build2_0
+      213: 4144915844386057833
+    second: stoit KOTESSA_0
   - first:
-      213: 4376016981822804922
-    second: build2_1
+      213: -2052811829506969510
+    second: stoit KOTESSA_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: build2_0
+      name: stoit KOTESSA_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 671
-        width: 28
-        height: 52
+        x: 90
+        y: 64
+        width: 335
+        height: 614
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cfb857b9f44edf6c0800000000000000
-      internalID: -4107876254530302980
+      spriteID: 96ee480fff2b58930800000000000000
+      internalID: 4144915844386057833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: build2_1
+      name: stoit KOTESSA_1
       rect:
         serializedVersion: 2
-        x: 54
-        y: 73
-        width: 901
-        height: 900
+        x: 231
+        y: 43
+        width: 11
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab310a4824cbabc30800000000000000
-      internalID: 4376016981822804922
+      spriteID: a50748f6482f283e0800000000000000
+      internalID: -2052811829506969510
       vertices: []
       indices: 
       edges: []
@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      stoit KOTESSA_0: 4144915844386057833
+      stoit KOTESSA_1: -2052811829506969510
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

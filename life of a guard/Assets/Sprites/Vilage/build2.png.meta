@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 57ffbcb41bf998d4cbe464986ee8ada2
+guid: 7b430396ead85ab44ac79573e621e1b7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2472910617871792919
-    second: build3_0
+      213: -4107876254530302980
+    second: build2_0
   - first:
-      213: -1279319565986868193
-    second: build3_1
+      213: 4376016981822804922
+    second: build2_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: build3_0
+      name: build2_0
       rect:
         serializedVersion: 2
-        x: 28
-        y: 569
-        width: 42
-        height: 41
+        x: 7
+        y: 671
+        width: 28
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 71b3a8bda1b815220800000000000000
-      internalID: 2472910617871792919
+      spriteID: cfb857b9f44edf6c0800000000000000
+      internalID: -4107876254530302980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: build3_1
+      name: build2_1
       rect:
         serializedVersion: 2
-        x: 100
-        y: 70
-        width: 1387
-        height: 737
+        x: 54
+        y: 73
+        width: 901
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f14552302a1fe3ee0800000000000000
-      internalID: -1279319565986868193
+      spriteID: ab310a4824cbabc30800000000000000
+      internalID: 4376016981822804922
       vertices: []
       indices: 
       edges: []
@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      build2_0: -4107876254530302980
+      build2_1: 4376016981822804922
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
