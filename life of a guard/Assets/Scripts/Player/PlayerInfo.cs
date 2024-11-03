@@ -5,11 +5,19 @@ public class PlayerInfo : MonoBehaviour
 {
     [SerializeField] private float maxHealth = 100f;
     private float _currentHealth;
-    public float Health
+
+    private void Awake()
+    {
+        _currentHealth = maxHealth;
+    }
+    /// <summary>
+    /// Здоровье показывается в процентах 
+    /// </summary>
+    public float Health//  Через эту переменную можно получить количество хп
     {
         get
         {
-            return _currentHealth;
+            return _currentHealth / maxHealth * 100f;
         }
         private set
         {
