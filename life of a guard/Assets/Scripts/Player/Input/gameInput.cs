@@ -36,4 +36,9 @@ public class gameInput : MonoBehaviour
     {
         return Input.GetKey(KeyCode.Space);
     }
+
+    public bool Pause()
+    {
+        return Input.GetKeyDown(KeyCode.Escape);
+    }
 }
