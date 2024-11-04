@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: da6ccd5f28d13571db11444013488097
+guid: 3c9c55c74dee3f24e889d4a15dcfee33
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6039537497406309381
-    second: HP polosa ZLO_0
+      213: 8699532021276924565
+    second: hodit MEDVED NPC 2_0
+  - first:
+      213: 521442420575687035
+    second: hodit MEDVED NPC 2_1
+  - first:
+      213: 3277145390885383923
+    second: hodit MEDVED NPC 2_2
+  - first:
+      213: -4494882031237142956
+    second: hodit MEDVED NPC 2_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +135,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HP polosa ZLO_0
+      name: hodit MEDVED NPC 2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 165
-        height: 18
+        x: 149
+        y: 70
+        width: 265
+        height: 556
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +150,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5040e84ea5fb0d350800000000000000
-      internalID: 6039537497406309381
+      spriteID: 59ad8500842fab870800000000000000
+      internalID: 8699532021276924565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodit MEDVED NPC 2_1
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 59
+        width: 265
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71db396e198c3700800000000000000
+      internalID: 521442420575687035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodit MEDVED NPC 2_2
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 61
+        width: 265
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe2805be52ca7d20800000000000000
+      internalID: 3277145390885383923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodit MEDVED NPC 2_3
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 59
+        width: 265
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456e2d48b98fe91c0800000000000000
+      internalID: -4494882031237142956
       vertices: []
       indices: 
       edges: []
@@ -160,8 +235,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      HP polosa ZLO_0: 6039537497406309381
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

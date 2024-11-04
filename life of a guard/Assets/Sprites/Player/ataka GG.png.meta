@@ -1,13 +1,28 @@
 fileFormatVersion: 2
-guid: d73c202579956844b9ae10a7aafbc120
+guid: 57d376378e12d9641b195ba982c6eed0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2600511328253565807
-    second: stoit GG_0
+      213: 1924977409532313089
+    second: ataka GG_0
   - first:
-      213: 5928238573995401694
-    second: stoit GG_1
+      213: 1811776176969871092
+    second: ataka GG_1
+  - first:
+      213: -1822945066955055971
+    second: ataka GG_2
+  - first:
+      213: 8137887579598130967
+    second: ataka GG_3
+  - first:
+      213: 2410053282096239907
+    second: ataka GG_4
+  - first:
+      213: -3871481131170195848
+    second: ataka GG_5
+  - first:
+      213: -6390571964339290079
+    second: ataka GG_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -129,13 +144,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: stoit GG_0
+      name: ataka GG_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 14
-        width: 510
-        height: 695
+        x: 29
+        y: 44
+        width: 511
+        height: 630
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,20 +159,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 194211d99b029ebd0800000000000000
-      internalID: -2600511328253565807
+      spriteID: 10e33d741c4e6ba10800000000000000
+      internalID: 1924977409532313089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stoit GG_1
+      name: ataka GG_1
       rect:
         serializedVersion: 2
-        x: 91
-        y: 206
-        width: 6
-        height: 9
+        x: 605
+        y: 45
+        width: 500
+        height: 630
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,8 +181,118 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed1a3cae295554250800000000000000
-      internalID: 5928238573995401694
+      spriteID: 4feedc075d8b42910800000000000000
+      internalID: 1811776176969871092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataka GG_2
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 44
+        width: 436
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cd717be1993b6e0800000000000000
+      internalID: -1822945066955055971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataka GG_3
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 44
+        width: 500
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f820423a59fe070800000000000000
+      internalID: 8137887579598130967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataka GG_4
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 45
+        width: 511
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3255c19e0ba327120800000000000000
+      internalID: 2410053282096239907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataka GG_5
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 45
+        width: 539
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87619f55c6cb54ac0800000000000000
+      internalID: -3871481131170195848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataka GG_6
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 45
+        width: 511
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1208cf938a02057a0800000000000000
+      internalID: -6390571964339290079
       vertices: []
       indices: 
       edges: []

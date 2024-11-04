@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: da6ccd5f28d13571db11444013488097
+guid: 44b07ca297fc40942b27bb0d380dd903
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6039537497406309381
-    second: HP polosa ZLO_0
+      213: -4264607282586482876
+    second: hodit ZAYAC NPC 1_0
+  - first:
+      213: 6459351539015357182
+    second: hodit ZAYAC NPC 1_1
+  - first:
+      213: 1798957026612618252
+    second: hodit ZAYAC NPC 1_2
+  - first:
+      213: 596570117663022300
+    second: hodit ZAYAC NPC 1_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +135,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HP polosa ZLO_0
+      name: hodit ZAYAC NPC 1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 165
-        height: 18
+        x: 148
+        y: 66
+        width: 262
+        height: 625
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +150,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5040e84ea5fb0d350800000000000000
-      internalID: 6039537497406309381
+      spriteID: 44783e6754211d4c0800000000000000
+      internalID: -4264607282586482876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodit ZAYAC NPC 1_1
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 71
+        width: 262
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2126a600a34a950800000000000000
+      internalID: 6459351539015357182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodit ZAYAC NPC 1_2
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 63
+        width: 262
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04207962ed27f810800000000000000
+      internalID: 1798957026612618252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodit ZAYAC NPC 1_3
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 71
+        width: 262
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcdaea7c51774800800000000000000
+      internalID: 596570117663022300
       vertices: []
       indices: 
       edges: []
@@ -160,8 +235,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      HP polosa ZLO_0: 6039537497406309381
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

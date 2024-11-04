@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: da6ccd5f28d13571db11444013488097
+guid: ae0f1a7546b40c14791f77144313347c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6039537497406309381
-    second: HP polosa ZLO_0
+      213: 3946189219292281592
+    second: stoit MEDVED NPC 2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HP polosa ZLO_0
+      name: stoit MEDVED NPC 2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 165
-        height: 18
+        x: 119
+        y: 59
+        width: 265
+        height: 567
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5040e84ea5fb0d350800000000000000
-      internalID: 6039537497406309381
+      spriteID: 8fa7468ef2ea3c630800000000000000
+      internalID: 3946189219292281592
       vertices: []
       indices: 
       edges: []
@@ -160,8 +160,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      HP polosa ZLO_0: 6039537497406309381
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

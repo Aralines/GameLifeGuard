@@ -1,10 +1,28 @@
 fileFormatVersion: 2
-guid: da6ccd5f28d13571db11444013488097
+guid: 1b2b487514204f744bb34724b0ea83d0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6039537497406309381
-    second: HP polosa ZLO_0
+      213: -2541579827414792756
+    second: tree1_0
+  - first:
+      213: 7209657227957792324
+    second: tree1_1
+  - first:
+      213: 1119105973310806021
+    second: tree1_2
+  - first:
+      213: 3794882191217770560
+    second: tree1_3
+  - first:
+      213: 6676945674137800452
+    second: tree1_4
+  - first:
+      213: -5491651516655270815
+    second: tree1_5
+  - first:
+      213: -6991553030406980657
+    second: tree1_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +144,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HP polosa ZLO_0
+      name: tree1_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 165
-        height: 18
+        y: 614
+        width: 5
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +159,140 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5040e84ea5fb0d350800000000000000
-      internalID: 6039537497406309381
+      spriteID: cc584a2ec9e7abcd0800000000000000
+      internalID: -2541579827414792756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree1_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 16
+        width: 519
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e60c8ec09dd0460800000000000000
+      internalID: 7209657227957792324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree1_2
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 542
+        width: 83
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508553514fcd78f00800000000000000
+      internalID: 1119105973310806021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040cdfb2f312aa430800000000000000
+      internalID: 3794882191217770560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree1_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 562
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f8093f6b649ac50800000000000000
+      internalID: 6676945674137800452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree1_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 447
+        width: 12
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1640787aa0cb9c3b0800000000000000
+      internalID: -5491651516655270815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree1_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 141
+        width: 34
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb394acf8309fe90800000000000000
+      internalID: -6991553030406980657
       vertices: []
       indices: 
       edges: []
@@ -160,8 +310,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      HP polosa ZLO_0: 6039537497406309381
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
