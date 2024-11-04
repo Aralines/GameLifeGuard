@@ -3,10 +3,10 @@ using UnityEngine;
 
 public class attack : MonoBehaviour
 {
-    [SerializeField] PlayerInfo player;
     [SerializeField] float damage = 0.2f;
     [SerializeField] float range = 1f;
     private float _currentRenge;
+    private PlayerInfo _player;
     private short targets = 0;
     
     private const string PLAYERTAG = "Player";
@@ -16,7 +16,8 @@ public class attack : MonoBehaviour
         if (collision.CompareTag(PLAYERTAG))
         {
             targets++;
-            _currentRenge = range;   
+            _currentRenge = range;
+            _player = collision.GetComponent<PlayerInfo>();
         }
     }
 
@@ -34,7 +35,7 @@ public class attack : MonoBehaviour
             targets > 0 &&
             other.CompareTag(PLAYERTAG))
         {
-            player.TakeDamage(damage);
+            _player.TakeDamage(damage);
             _currentRenge = range;
         }
     }
