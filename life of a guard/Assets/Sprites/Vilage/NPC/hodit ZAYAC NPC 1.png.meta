@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hodit ZAYAC NPC 1_0: -4264607282586482876
+      hodit ZAYAC NPC 1_1: 6459351539015357182
+      hodit ZAYAC NPC 1_2: 1798957026612618252
+      hodit ZAYAC NPC 1_3: 596570117663022300
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
