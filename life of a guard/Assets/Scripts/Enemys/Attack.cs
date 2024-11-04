@@ -7,6 +7,7 @@ public class attack : MonoBehaviour
     [SerializeField] float range = 1f;
     private float _currentRenge;
     private PlayerInfo _player;
+    private Move _move;
     private short targets = 0;
     
     private const string PLAYERTAG = "Player";
@@ -17,6 +18,7 @@ public class attack : MonoBehaviour
         {
             targets++;
             _currentRenge = range;
+            _move = collision.GetComponent<Move>();
             _player = collision.GetComponent<PlayerInfo>();
         }
     }
@@ -37,6 +39,7 @@ public class attack : MonoBehaviour
         {
             _player.TakeDamage(damage);
             _currentRenge = range;
+            //_move.moveSpeed /= 2;
         }
     }
 
