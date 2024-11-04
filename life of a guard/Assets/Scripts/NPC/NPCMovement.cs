@@ -31,30 +31,28 @@ public class NPCMovement : MonoBehaviour
 
     private void MoveNPC()
     {
-        // Определяем, к какой точке движемся
         Vector2 targetPosition = movingToPointB ? pointB.position : pointA.position;
 
-        // Двигаем NPC к цели
+        Debug.Log($"Moving to: {targetPosition}");
+
         transform.position = Vector2.MoveTowards(transform.position, targetPosition, speed * Time.deltaTime);
 
-        // Если достигли точки назначения
-        if (Vector2.Distance(transform.position, targetPosition) < 0.1f)
+        if (Vector2.Distance(transform.position, targetPosition) < 0.2f) // Увеличиваем значение
         {
+            Debug.Log("Reached target");
             StartCoroutine(WaitBeforeNextMove());
-            animator.SetBool("isWalking", false); // Устанавливаем Idle анимацию
+            animator.SetBool("isWalking", false);
         }
         else
         {
-            // Устанавливаем анимацию в зависимости от направления
-            animator.SetBool("isWalking", true); // Устанавливаем анимацию ходьбы
-
+            animator.SetBool("isWalking", true);
             if (movingToPointB)
             {
-                animator.SetTrigger("WalkRight"); // Анимация ходьбы вправо
+                animator.SetTrigger("WalkRight");
             }
             else
             {
-                animator.SetTrigger("WalkLeft"); // Анимация ходьбы влево
+                animator.SetTrigger("WalkLeft");
             }
         }
     }
