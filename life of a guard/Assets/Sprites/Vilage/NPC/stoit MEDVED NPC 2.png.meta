@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      stoit MEDVED NPC 2_0: 3946189219292281592
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

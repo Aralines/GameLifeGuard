@@ -310,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ataka GG_0: 1924977409532313089
+      ataka GG_1: 1811776176969871092
+      ataka GG_2: -1822945066955055971
+      ataka GG_3: 8137887579598130967
+      ataka GG_4: 2410053282096239907
+      ataka GG_5: -3871481131170195848
+      ataka GG_6: -6390571964339290079
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

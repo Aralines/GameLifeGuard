@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hodit MEDVED NPC 2_0: 8699532021276924565
+      hodit MEDVED NPC 2_1: 521442420575687035
+      hodit MEDVED NPC 2_2: 3277145390885383923
+      hodit MEDVED NPC 2_3: -4494882031237142956
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

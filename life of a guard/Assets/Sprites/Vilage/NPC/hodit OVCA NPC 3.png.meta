@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hodit OVCA NPC 3_0: -8939622634090485824
+      hodit OVCA NPC 3_1: -1757424707628878179
+      hodit OVCA NPC 3_2: 2164415914204092633
+      hodit OVCA NPC 3_3: -4535816631034598522
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
